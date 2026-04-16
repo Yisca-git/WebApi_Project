@@ -54,19 +54,16 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-
+// Ensure OpenAPI endpoints and Swagger UI are only exposed in Development
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/openapi/v1.json", "My API V1");
+    });
 }
-
-app.UseSwaggerUI(options =>
-{
-    options.SwaggerEndpoint("/openapi/v1.json", "My API V1");
-});
-
-
-
 
 app.UseCors("AllowAngularApp");
 

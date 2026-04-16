@@ -333,3 +333,4 @@ C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\WebApiShop\o
 C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\WebApiShop\obj\Debug\net9.0\EventDressRental.pdb
 C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\WebApiShop\obj\Debug\net9.0\EventDressRental.genruntimeconfig.cache
 C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\WebApiShop\obj\Debug\net9.0\ref\EventDressRental.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\WebApiShop\obj\Debug\net9.0\EventDressRental.sourcelink.json

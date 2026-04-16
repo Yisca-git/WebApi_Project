@@ -97,3 +97,4 @@ C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Repositories
 C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Repositories\obj\Debug\net9.0\Repositories.pdb
 C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Repositories\obj\Debug\net9.0\Repositories.genruntimeconfig.cache
 C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Repositories\obj\Debug\net9.0\ref\Repositories.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Repositories\obj\Debug\net9.0\Repositories.sourcelink.json

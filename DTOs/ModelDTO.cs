@@ -9,10 +9,10 @@ namespace DTOs
 {
     public record ModelDTO
     (
-        [Required]
-        int Id,
-        [Required]
-        string Name,
+[Required]
+     int Id,
+     [Required]
+string Name,
         [Required]
         string Description,
         [Required]

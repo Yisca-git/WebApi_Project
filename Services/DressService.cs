@@ -88,6 +88,7 @@ namespace Services
         public async Task UpdateDress(int id, NewDressDTO updateDress)
         {
             Dress update = _mapper.Map<NewDressDTO, Dress>(updateDress);
+            update.Id = id;
             await _dressRepository.UpdateDress(update);
         }
         public async Task DeleteDress(int id)

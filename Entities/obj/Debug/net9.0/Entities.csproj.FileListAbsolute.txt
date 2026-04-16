@@ -77,3 +77,4 @@ C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj
 C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj\Debug\net9.0\refint\Entities.dll
 C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj\Debug\net9.0\Entities.pdb
 C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj\Debug\net9.0\Entities.sourcelink.json
